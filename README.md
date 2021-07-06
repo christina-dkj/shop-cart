@@ -1,4 +1,4 @@
-# jingdong
+# shop cart
 
 ## Project setup
 ```
